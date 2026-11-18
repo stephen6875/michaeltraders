@@ -1,0 +1,2 @@
+# michaeltraders
+Michaeltraders Static Website
